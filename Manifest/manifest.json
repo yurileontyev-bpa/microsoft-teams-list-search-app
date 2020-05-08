@@ -1,30 +1,30 @@
 {
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.4/MicrosoftTeams.schema.json",
   "manifestVersion": "1.4",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "id": "53be03ee-7339-4d0b-b4dc-124336355ea1",
   "packageName": "com.microsoft.teams.listsearch",
   "developer": {
-    "name": "<company name>",
-    "websiteUrl": "<website url>",
-    "privacyUrl": "<privacy url>",
-    "termsOfUseUrl": "<terms of use url>"
+    "name": "BPA Solutions",
+    "websiteUrl": "https://www.bpa-solutions.net",
+    "privacyUrl": "https://www.bpa-solutions.net/privacy-policy",
+    "termsOfUseUrl": "https://www.bpa-solutions.net/legal"
   },
   "icons": {
     "color": "color.png",
     "outline": "outline.png"
   },
   "name": {
-    "short": "List Search"
+    "short": "BPA List Search App"
   },
   "description": {
-    "short": "Search and share individual records in a SharePoint list",
-    "full": "Search for an item in a SharePoint list and contextually share it within a conversation"
+	"short": "Search and share individual records in a BPA list",
+	"full": "Search for an item in a BPA list and contextually share it within a conversation"
   },
   "accentColor": "#64A2CC",
   "composeExtensions": [
     {
-      "botId": "<bot id>",
+      "botId": "42ab5bf0-984d-423a-8459-2b20a436fe8f",
       "canUpdateConfiguration": false,
       "commands": [
         {
@@ -46,6 +46,6 @@
   "permissions": [
   ],
   "validDomains": [
-    "<app domain>"
+    "[BaseResourceName].azurewebsites.net"
   ]
 }
