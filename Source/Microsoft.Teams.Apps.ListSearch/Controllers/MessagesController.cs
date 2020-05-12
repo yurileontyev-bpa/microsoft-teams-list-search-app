@@ -229,7 +229,7 @@ namespace Microsoft.Teams.Apps.ListSearch.Controllers
             if (itemUrl.Contains("NonConformances/AllItems.aspx"))
             {
                 var host = itemUrl.Replace("Pages/NonConformances/AllItems.aspx", string.Empty);
-                var url = itemUrl.Replace("NonConformances/AllItems.aspx", "Non%20Conformance%20Details.aspx?BPAID=" + itemId + "&Source=" + host + "/pages/nonconformances.aspx");
+                var url = itemUrl.Replace("NonConformances/AllItems.aspx", "Non%20Conformance%20Details.aspx?BPAID=" + itemId + "&Source=" + host + "pages/nonconformances.aspx");
                 return url;
             }
 
