@@ -7,7 +7,9 @@ Collaboration in Microsoft Teams often references information contained within i
 
 To help alleviate this pain, we're happy to bring you the List Search app template. Millions of users use SharePoint to power some of the core workflows in their organizations. Using the List Search app in Microsoft Teams, users can insert information from SharePoint list items directly within a chat conversation. The data is inserted as an easy-to-read card, helping your users stay engaged in the conversation.
 
-![List Search in action](https://github.com/OfficeDev/microsoft-teams-list-search-app/wiki/images/ListSearch.gif)
+Custom deployment link:
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fyurileontyev-bpa%2Fmicrosoft-teams-list-search-app%2Fmaster%2FDeployment%2Fazuredeploy.json" rel="nofollow"><img src="https://camo.githubusercontent.com/8305b5cc13691600fbda2c857999c4153bee5e43/68747470733a2f2f617a7572656465706c6f792e6e65742f6465706c6f79627574746f6e2e706e67" alt="Deploy to Azure" data-canonical-src="https://azuredeploy.net/deploybutton.png"></a>
+
 
 ## Legal notice
 
