@@ -1,6 +1,6 @@
 # List Search App Template
 
-| [Documentation](https://github.com/OfficeDev/microsoft-teams-list-search-app/wiki) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-list-search-app/wiki/Deployment-guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-list-search-app/wiki/Solution-overview) |
+| [Documentation](https://github.com/OfficeDev/microsoft-teams-list-search-app/wiki) | [Deployment guide](https://github.com/yurileontyev-bpa/microsoft-teams-list-search-app/Wiki/Deployment-guide) | [Architecture](https://github.com/yurileontyev-bpa/microsoft-teams-list-search-app/wiki/Solution-overview) |
 | ---- | ---- | ---- |
 
 Collaboration in Microsoft Teams often references information contained within items in a SharePoint list. Simply pasting a link to the item forces everyone to switch context away from the conversation, find the needed information, then return to Teams to continue the conversation. As the conversation continues, people might have to switch back to the reference item multiple times to verify new comments and refresh their memory of what was in the list item. All this context switching creates a barrier to smooth collaboration, and is an opportunity for things to fall through the cracks.
